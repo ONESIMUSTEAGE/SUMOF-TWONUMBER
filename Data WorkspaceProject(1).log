@@ -1,0 +1,16 @@
+[Info - 2025-08-16 10:27:36.791] Starting Data Workspace activate()
+[Info - 2025-08-16 10:27:36.791] Setting azdataAvailable took 0ms
+[Info - 2025-08-16 10:27:36.792] Calling getProjectsInWorkspace() from WorkspaceService constructor
+[Info - 2025-08-16 10:27:36.792] Checking 115 extensions to see if there is a project provider is available
+[Info - 2025-08-16 10:27:36.793] isProjectProviderAvailable is true. Total time = 1ms
+[Info - 2025-08-16 10:27:36.794] Getting projects in workspace
+[Info - 2025-08-16 10:27:36.800] WorkspaceService constructor took 9ms
+[Info - 2025-08-16 10:27:36.804] WorkspaceTreeDataProvider constructor took 4ms
+[Info - 2025-08-16 10:27:36.804] DataWorkspaceExtension constructor took 0ms
+[Info - 2025-08-16 10:27:36.807] Registering commands took 3ms
+[Info - 2025-08-16 10:27:36.807] IconPathHelper took 0ms
+[Info - 2025-08-16 10:27:36.807] Finished activating Data Workspace extension. Total time = 16ms
+[Info - 2025-08-16 10:27:36.832] Calling getProjectsInWorkspace() from getChildren()
+[Info - 2025-08-16 10:27:36.832] Getting projects in workspace
+[Info - 2025-08-16 10:27:36.994] Finished looking for projects in workspace. Opened: 0. Excluded: 0. Total time = 200ms
+[Info - 2025-08-16 10:27:36.994] Finished looking for projects in workspace. Opened: 0. Excluded: 0. Total time = 162ms
